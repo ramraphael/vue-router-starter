@@ -11,7 +11,7 @@
   "author": "Raphael Ram",
   "license": "ISC",
   "dependencies": {
-    "vue": "^2.6.10",
+    "vue": "^3.0.0",
     "vue-router": "^3.0.7",
     "vue-template-compiler": "^2.6.10"
   },
